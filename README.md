@@ -24,7 +24,7 @@ The user should clone the repository from GitHub and install dependencies. For d
 ## Usage
 
 This application will allow users to search for books and view 10 results. Users are able to sign up and login in. Logged in users can save a book and view a page of saved books. Users can also remove books from their saved page.<br>
-Please view deployed application on [Heroku](https://lit-everglades-64457.herokuapp.com//)<br>
+Please view deployed application on [Heroku](https://enigmatic-citadel-36780.herokuapp.com/)<br>
 <img src='./assets/images/mernBookstore.gif'>
 
 ## License
